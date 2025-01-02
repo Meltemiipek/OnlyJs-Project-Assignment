@@ -1,0 +1,24 @@
+.form-bg{
+    background-color: #f8f9fa;
+}
+
+
+.btn-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-style{
+    
+    justify-content: center;
+    
+}
+
+form{
+    width: 550px;
+}
+
+.icons-section-container{
+    background-color: white;
+}

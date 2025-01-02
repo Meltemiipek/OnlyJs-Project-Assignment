@@ -1,0 +1,43 @@
+h5{
+    color: gray;
+}
+
+.second-content{
+    background-color:#212529 ;
+}
+
+.navbar-section{
+    background-color: #212529;
+}
+
+img{
+    border-radius: 2%;
+}
+
+
+.quotation-bg{
+    background-color:#f8f9fa ;
+}
+
+.email-bg{
+    background-color:#227bfd ;
+    border-radius: 10px;
+}
+
+p.signupfor-color{
+    color: #88b3fe;
+}
+
+a{
+    color: white;
+}
+
+.card-section-container{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    width: 400px;
+    height:40px ;
+}
